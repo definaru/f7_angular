@@ -1,0 +1,13 @@
+@import 'material-icons/iconfont/material-icons.css';
+.theme-dark.panel {
+    background-color: #1c1c1d;
+}
+.panel {
+    min-width: 100px;
+    max-width: 90vw;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

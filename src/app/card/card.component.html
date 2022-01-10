@@ -1,0 +1,15 @@
+<li>
+    <a href="#" class="item-link item-content">
+        <div class="item-media">
+            <img [src]="card?.image" width="80" />
+        </div> 
+        <div class="item-inner">
+            <div class="item-title-row">
+                <div class="item-title">{{card?.name}}</div>
+                <div class="item-after">${{card?.price}}</div>
+            </div>
+            <div class="item-subtitle">{{card?.subtitle}}</div>
+            <div class="item-text">{{card?.description}}</div>
+        </div>        
+    </a>
+</li>

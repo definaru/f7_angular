@@ -1,6 +1,6 @@
 {
   "name": "gelstore",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -18,10 +18,15 @@
     "@angular/platform-browser": "~13.1.0",
     "@angular/platform-browser-dynamic": "~13.1.0",
     "@angular/router": "~13.1.0",
+    "framework7": "^6.3.14",
+    "material-icons": "^1.10.4",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
+  "author": "iQs Solution <work.dev.i@yandex.ru>",
+  "license": "GNU 3",
+  "homepage": "https://shopme.ee",
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.1.2",
     "@angular/cli": "~13.1.2",

@@ -1,0 +1,9 @@
+@import 'material-icons/iconfont/material-icons.css';
+.theme-dark, li {
+    border-bottom: 1px solid #3d3d3d;
+}
+
+
+/* .theme-light, li {
+    border-bottom: 1px solid #ddd;
+} */
